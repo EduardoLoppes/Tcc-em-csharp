@@ -1,0 +1,10 @@
+C:\Tcc-em-csharp\SIGOM\bin\Debug\SIGOM.exe.config
+C:\Tcc-em-csharp\SIGOM\bin\Debug\SIGOM.exe
+C:\Tcc-em-csharp\SIGOM\bin\Debug\SIGOM.pdb
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.csproj.AssemblyReference.cache
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.csproj.SuggestedBindingRedirects.cache
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.Properties.Resources.resources
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.csproj.GenerateResource.cache
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.csproj.CoreCompileInputs.cache
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.exe
+C:\Tcc-em-csharp\SIGOM\obj\Debug\SIGOM.pdb
